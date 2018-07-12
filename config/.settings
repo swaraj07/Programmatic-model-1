@@ -1,0 +1,17 @@
+{
+    "projectName": "Programmatic  Model 1",
+    "username": "swaraj@espl.com",
+    "id": "4964d090-85c7-11e8-be13-8381cb021609",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap4.salesforce.com",
+    "workspace": "C:\\Users\\swaraj.joshi\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
